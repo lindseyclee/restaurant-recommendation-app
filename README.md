@@ -29,7 +29,7 @@ GrubGuide is a SwiftUI app that helps users discover restaurants based on prefer
 - The sample restaurant dataset is included in the project in .json format.
 - Double-tap on the heart icon to add or remove favorites.
 - Since the app is centered around a dataset, getting a recommendation in GrubGuide from the user data can be very specific. I would suggest selecing New Delhi (city) and American (cuisine) to test. That input has more variety to test.
-- Refer to demo.mov for a video demonstration on how the app works!
+- Refer to demo.mp4 for a video demonstration on how the app works!
 
 ## Resources/References:
 
